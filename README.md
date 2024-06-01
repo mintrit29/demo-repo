@@ -1,2 +1,2 @@
 # Demo
-học git cho người mới
+học git cho người mới!
