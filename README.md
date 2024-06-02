@@ -6,3 +6,4 @@ xem hướng dẫn trên youtube.
 
 ## Local Development
 1. Open index.html.
+2. Have fun.
